@@ -1,7 +1,5 @@
 acceptAll: 'Mind elfogad'
-acceptAll_en: Accept all
 acceptSelected: 'Kiválasztottat elfogad'
-acceptSelected_en: Accept selected
 service:
     disableAll:
         description: Használja ezt a kapcsolót az összes alkalmazás engedélyezéséhez/letiltásához.
@@ -41,7 +39,10 @@ contextualConsent:
 decline: Elutasít
 ok: Elfogad
 poweredBy: Powered by Klaro!
+privacyPolicy:
+  name: Adatkezelési tájékoztató
+  text: További információért kérjük, olvassa el az {privacyPolicy}.
 purposeItem:
-    service: ''
-    services: ''
+    service: szolgáltatás
+    services: szolgáltatások
 save: Mentés
